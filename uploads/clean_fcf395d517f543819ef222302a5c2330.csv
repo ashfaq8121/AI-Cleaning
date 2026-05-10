@@ -1,0 +1,521 @@
+﻿order_id,customer_name,city,product_type,brand,quantity,price,total_sales,rating,month,payment_method,order_date,order_year,order_month,order_quarter
+ORD0230,Kayla Levine,Lake Teresa,Hoodie,H&M,3,342.96,1028.88,2.5,December,Net Banking,2025-12-04,2025,12,4
+ORD0074,Timothy Lindsey,North Scotthaven,Top,Max,5,2972.56,14862.8,4.8,July,Card,2025-05-16,2025,5,2
+ORD0326,Julia Burke,West Tyler,Jeans,Levis,13,-807.76,-10500.88,2.5,May,Net Banking,2025-09-10,2025,9,3
+ORD0087,Michael Butler,New Stephenmouth,Blazer,Nike,4,4632.78,18531.12,4.5,July,Net Banking,2025-06-24,2025,6,2
+ORD0470,Jenny Ferguson,Howardside,Blazer,Nike,1,3418.68,3418.68,2.3,January,Upi,2025-10-08,2025,10,4
+ORD0078,Courtney West,East Matthewberg,Jeans,Allen Solly,5,3588.75,17943.75,3.0,December,Cash,2025-08-10,2025,8,3
+ORD0298,Shaun Winters,Watsonfurt,Skirt,Roadster,7,623.95,4367.65,2.1,January,Net Banking,2025-01-05,2025,1,1
+ORD0419,Brent Hawkins,Markville,Shorts,Allen Solly,13,1735.72,22564.36,1.7,June,Card,2025-10-03,2025,10,4
+ORD0343,Tara Jackson,New Cassidy,Jacket,Allen Solly,11,761.62,8377.82,1.5,December,Upi,2025-05-18,2025,5,2
+ORD0384,Teresa Chen,Townsendfurt,Tracksuit,Allen Solly,6,4178.96,25073.76,4.4,June,Net Banking,2025-12-03,2025,12,4
+ORD0007,Ashley Luna,Jacquelineshire,Tracksuit,Trends,10,3284.4,32844.0,2.0,February,Card,2025-12-17,2025,12,4
+ORD0118,Megan Browning,West Denise,Shorts,Adidas,6,4188.87,25133.22,3.9,July,Upi,2025-07-11,2025,7,3
+ORD0411,Teresa Chase,Peterport,Skirt,Trends,10,706.57,7065.7,2.8,May,Net Banking,2025-03-22,2025,3,1
+ORD0076,Shannon Johnson,East Dana,Hoodie,Puma,5,3604.04,18020.2,3.7,December,Card,2025-08-06,2025,8,3
+ORD0273,Phyllis Johnson,New Joseph,Lehenga,Gucci,2,3278.05,6556.1,1.4,August,Upi,2025-08-21,2025,8,3
+ORD0196,Kelly Walton,Brookefort,Hoodie,Roadster,15,2941.48,44122.2,1.4,May,Cash,2025-12-09,2025,12,4
+ORD0495,Amber Gonzalez,Port Jesse,Blazer,Trends,10,3239.03,32390.3,4.0,April,Upi,2025-12-12,2025,12,4
+ORD0102,Bobby Evans,Heathhaven,Shirt,Gucci,4,921.15,3684.6,4.9,March,Card,2025-05-12,2025,5,2
+ORD0031,Nicholas Harris,Emilymouth,Jeans,H&M,9,1030.61,9275.49,1.8,December,Upi,2025-09-16,2025,9,3
+ORD0056,Oscar Wilson,South Brian,T-Shirt,Puma,6,1294.8,7768.8,4.0,July,Net Banking,2025-05-10,2025,5,2
+ORD0374,Lisa Ellis,South Jessicamouth,Shirt,H&M,14,3863.56,54089.84,4.4,February,Upi,2025-08-13,2025,8,3
+ORD0186,Francis Gutierrez,Amyhaven,Kurti,Levis,9,2447.85,22030.65,3.1,August,Card,2025-07-21,2025,7,3
+ORD0299,Cody Scott,Bellville,Saree,Adidas,10,3987.18,39871.8,2.0,May,Card,2025-10-07,2025,10,4
+ORD0168,Mr. Kenneth Thornton Jr.,Savannahland,Shorts,Adidas,3,4308.28,12924.84,4.6,February,Upi,2025-12-08,2025,12,4
+ORD0480,Kelly Smith,West Jonathan,Hoodie,Puma,14,359.29,5030.06,3.9,July,Card,2025-01-18,2025,1,1
+ORD0003,Patty Clark,Matthewberg,Shorts,Max,13,4385.71,57014.23,1.6,May,Card,2025-06-22,2025,6,2
+ORD0181,Kevin Barnes,North Nicoleville,Shorts,Roadster,8,4431.66,35453.28,1.4,August,Card,2025-04-21,2025,4,2
+ORD0358,Debra Taylor,Claireshire,Jacket,Max,8,4300.71,34405.68,4.5,May,Cash,2025-08-30,2025,8,3
+ORD0011,Robert Madden,Johnnyport,Tracksuit,Nike,7,3103.12,21721.84,3.4,November,Cash,2025-12-15,2025,12,4
+ORD0312,Sharon Daniel,Joshuamouth,Jacket,Allen Solly,1,3186.3,3186.3,3.6,March,Net Banking,2025-02-01,2025,2,1
+ORD0372,Marc Stewart,Sheilastad,Top,Max,8,1000.98,8007.84,3.0,November,Upi,2025-11-26,2025,11,4
+ORD0177,Ryan Wilson,North Christopher,Jacket,Allen Solly,13,4094.54,53229.02,2.8,April,Net Banking,2025-09-05,2025,9,3
+ORD0246,Brian Schultz,Huangview,Saree,Puma,12,3237.66,38851.92,1.8,April,Net Banking,2025-06-20,2025,6,2
+ORD0465,Joseph Day,New Blakefurt,Tracksuit,Levis,11,3177.86,34956.46,4.6,July,Upi,2025-06-12,2025,6,2
+ORD0350,Susan Donaldson,Joseburgh,Kurti,Trends,10,4064.06,40640.6,3.4,March,Upi,2025-08-05,2025,8,3
+ORD0189,Karen Williams,Matthewhaven,Tracksuit,Max,4,3690.58,14762.32,1.7,October,Net Banking,2025-03-17,2025,3,1
+ORD0415,Robert Torres,Nguyenville,Skirt,Max,14,3829.9,53618.6,3.2,January,Cash,2025-05-09,2025,5,2
+ORD0073,Candice Berry,Lake Ginaside,Hoodie,H&M,13,2256.02,29328.26,3.5,September,Net Banking,2025-06-02,2025,6,2
+ORD0197,Robert Harris,Ashleyshire,Blazer,Adidas,4,546.71,2186.84,3.9,November,Cash,2025-10-09,2025,10,4
+ORD0269,Michael Chambers,Emilyfurt,Shorts,H&M,4,4110.3,16441.2,2.4,April,Card,2025-11-12,2025,11,4
+ORD0322,Jeffrey Brewer,Nortonshire,Saree,Nike,9,3559.73,32037.57,4.1,December,Card,2025-07-13,2025,7,3
+ORD0489,Jake Hess,Payneport,Sweater,Levis,4,1807.26,7229.04,4.9,October,Net Banking,2025-10-10,2025,10,4
+ORD0141,Jennifer Chapman,South Austin,Tracksuit,Nike,5,4848.17,24240.85,2.6,June,Upi,2025-10-14,2025,10,4
+ORD0458,Pamela Weaver,South Brendaborough,Blazer,Puma,5,2515.32,12576.6,2.5,April,Upi,2025-07-06,2025,7,3
+ORD0174,Brandon Simmons,West Lisaville,Jacket,H&M,4,3284.77,13139.08,1.5,May,Card,2025-10-31,2025,10,4
+ORD0080,Stephanie Ellis,Crystalfurt,Top,Puma,1,3886.61,3886.61,3.1,October,Net Banking,2025-11-22,2025,11,4
+ORD0363,Kathleen Wright,Lake Troy,Saree,Roadster,1,3480.72,3480.72,2.0,April,Card,2025-02-22,2025,2,1
+ORD0397,Richard Garrett,South Johnburgh,Skirt,Puma,11,520.81,5728.91,2.7,December,Cash,2025-01-07,2025,1,1
+ORD0156,Timothy Lee,Carrollburgh,Top,Allen Solly,11,2118.34,23301.74,4.0,January,Card,2025-12-03,2025,12,4
+ORD0236,Daniel Aguilar,Rodriguezborough,Top,Max,5,518.84,2594.2,4.7,August,Cash,2025-04-02,2025,4,2
+ORD0512,Connie Harding,Jacksonhaven,Blazer,Puma,8,3228.3,25826.4,3.8,September,Cash,2025-05-11,2025,5,2
+ORD0498,Amy Tyler,New Stephanie,Skirt,Roadster,5,1992.04,9960.2,4.8,December,Upi,2025-11-02,2025,11,4
+ORD0010,Christina Olson,New Stephanie,Lehenga,Max,6,1330.81,7984.86,3.0,July,Cash,2025-03-20,2025,3,1
+ORD0424,Gina Maxwell,Lake Michael,Hoodie,Allen Solly,2,1542.48,3084.96,3.7,April,Net Banking,2025-08-29,2025,8,3
+ORD0105,Michelle Knight,Kelleyfort,Tracksuit,Trends,10,2090.82,20908.2,2.5,May,Upi,2025-11-09,2025,11,4
+ORD0447,Jose Douglas,Lake Howard,T-Shirt,H&M,9,1637.12,14734.08,4.7,February,Upi,2025-04-26,2025,4,2
+ORD0371,Alejandro Bryant,New Stephanie,Kurti,Zara,8,4578.68,36629.44,2.9,September,Cash,2025-02-26,2025,2,1
+ORD0159,Kristina Li,Port Monica,Saree,Puma,7,4948.88,34642.16,2.0,September,Upi,2025-01-25,2025,1,1
+ORD0250,April Butler,New Stephanie,Skirt,Roadster,12,2469.62,29635.44,2.8,January,Net Banking,2025-12-11,2025,12,4
+ORD0317,Mary Duran,East Tanyaport,Top,Gucci,15,4244.34,62502.7088,1.7,June,Upi,2025-10-30,2025,10,4
+ORD0077,Amy Tyler,Desireemouth,Jeans,Roadster,11,1000.25,11002.75,1.6,April,Upi,2025-08-13,2025,8,3
+ORD0110,Angela Martinez,Davisshire,Jacket,Adidas,14,4173.7,58431.8,1.8,February,Cash,2025-06-20,2025,6,2
+ORD0071,Christopher Ramsey,Smithshire,Top,Allen Solly,14,357.65,5007.1,2.9,February,Upi,2025-09-02,2025,9,3
+ORD0487,Peggy Torres,Coltonside,Shirt,Allen Solly,10,1177.15,11771.5,3.9,April,Card,2025-02-05,2025,2,1
+ORD0461,Stefanie Knight,Jessicaview,Top,Trends,9,3686.63,33179.67,2.2,September,Net Banking,2025-02-20,2025,2,1
+ORD0369,Kevin Moran,Deanfort,Jeans,Trends,5,3227.15,16135.75,2.7,September,Cash,2025-05-25,2025,5,2
+ORD0272,Phillip Roberts,East Jason,Kurti,Nike,3,3643.56,10930.68,4.0,April,Upi,2025-11-18,2025,11,4
+ORD0133,Jessica Johnson,East Melissaland,Saree,Trends,4,783.18,3132.72,1.7,March,Cash,2025-04-01,2025,4,2
+ORD0079,Miguel Robles,West Alyssa,Shirt,Levis,5,421.56,2107.8,3.7,October,Cash,2025-12-11,2025,12,4
+ORD0150,Madison Todd,East Keithbury,Top,Allen Solly,15,425.35,6380.25,3.0,June,Upi,2025-04-25,2025,4,2
+ORD0336,Rebekah Farmer,New Stephanie,Tracksuit,Allen Solly,15,1407.52,21112.8,2.6,October,Card,2025-03-03,2025,3,1
+ORD0209,Pamela Ortiz,Mistyshire,Saree,Roadster,2,3497.39,6994.78,3.0,August,Cash,2025-08-21,2025,8,3
+ORD0069,Jennifer Meyer,East Danielview,Hoodie,Allen Solly,12,3071.06,36852.72,3.4,May,Upi,2025-04-27,2025,4,2
+ORD0251,Cody Lynch,New Kimberlymouth,Shorts,Nike,5,1437.5,7187.5,3.9,November,Net Banking,2025-10-26,2025,10,4
+ORD0064,Jason Phillips,Cindyshire,Shorts,Adidas,10,3168.56,31685.6,1.1,August,Card,2025-07-01,2025,7,3
+ORD0235,Marcus Cameron,Jeanetteville,Top,Gucci,13,1856.97,24140.61,4.9,November,Card,2025-04-19,2025,4,2
+ORD0210,Ashley Davenport,New Stephanie,Kurti,Roadster,8,2950.38,23603.04,3.7,July,Upi,2025-01-02,2025,1,1
+ORD0083,Samantha Clark,South Donna,Top,Roadster,7,554.76,3883.32,3.5,August,Cash,2025-04-15,2025,4,2
+ORD0193,Russell Mckee,Coxburgh,Shorts,Adidas,5,2923.01,14615.05,4.9,April,Card,2025-12-20,2025,12,4
+ORD0034,Jennifer Arias,Duanemouth,Sweater,Roadster,7,898.99,6292.93,4.6,March,Upi,2025-04-18,2025,4,2
+ORD0085,Kelly Lee,Kingland,Kurti,Puma,1,2895.58,2895.58,5.0,September,Cash,2025-11-28,2025,11,4
+ORD0178,Lisa Parks,Colleenbury,Shorts,Adidas,10,975.24,9752.4,2.3,June,Net Banking,2025-03-08,2025,3,1
+ORD0001,Joseph Parks,South Diane,Tracksuit,H&M,12,1592.64,19111.68,3.9,January,Cash,2025-10-30,2025,10,4
+ORD0012,Theresa Wallace,North Karenburgh,Shirt,H&M,15,2823.76,42356.4,3.6,November,Net Banking,2025-01-02,2025,1,1
+ORD0473,Ryan Zimmerman,Vargaschester,Jacket,Allen Solly,1,3532.52,3532.52,4.0,September,Upi,2025-11-02,2025,11,4
+ORD0023,Amy Tyler,West Katelyn,Lehenga,Allen Solly,4,4363.86,17455.44,1.7,August,Net Banking,2025-05-27,2025,5,2
+ORD0357,Thomas Smith,Millerville,Skirt,Nike,15,1877.47,28162.05,2.4,November,Upi,2025-07-10,2025,7,3
+ORD0091,Mrs. Monica Lopez,Haileyville,T-Shirt,Nike,10,1860.38,18603.8,4.4,September,Cash,2025-03-15,2025,3,1
+ORD0090,Angela Leonard,Mooreport,Lehenga,Adidas,1,1795.43,1795.43,4.7,July,Card,2025-09-11,2025,9,3
+ORD0154,Amy Tyler,Lake Jeremyborough,Blazer,Zara,9,3002.72,27024.48,2.2,November,Net Banking,2025-04-06,2025,4,2
+ORD0278,Alexis Forbes,East Douglasstad,Tracksuit,Levis,2,2047.67,4095.34,1.7,May,Card,2025-08-08,2025,8,3
+ORD0138,Janice Brown,West Susanburgh,Shorts,H&M,12,696.35,8356.2,1.2,June,Card,2025-07-06,2025,7,3
+ORD0377,Glenn Johnson,Ericamouth,Lehenga,Max,13,2974.03,38662.39,3.4,August,Card,2025-09-05,2025,9,3
+ORD0132,Andrew Johnson,Kevinmouth,Jeans,Gucci,12,1895.71,22748.52,1.7,May,Card,2025-06-28,2025,6,2
+ORD0430,Ashley Giles,North Suzanne,Hoodie,Zara,10,3084.03,30840.3,3.1,March,Card,2025-05-13,2025,5,2
+ORD0019,Kimberly Bishop,South Stuart,Blazer,Adidas,11,2581.45,28395.95,3.9,May,Card,2025-08-31,2025,8,3
+ORD0281,Douglas Campbell,Brianhaven,Saree,Levis,3,2098.79,6296.37,4.5,May,Cash,2025-09-29,2025,9,3
+ORD0449,Sheila Doyle,West Tina,Jeans,Roadster,15,2828.15,42422.25,2.0,May,Net Banking,2025-05-05,2025,5,2
+ORD0016,Seth Holden,North Nicholas,Tracksuit,Allen Solly,3,1545.77,4637.31,2.7,September,Card,2026-01-01,2026,1,1
+ORD0308,Amy Tyler,Lake Williamchester,Blazer,Roadster,2,2471.6,4943.2,1.6,April,Card,2025-03-08,2025,3,1
+ORD0040,Joseph Miller,Port Allisonside,Lehenga,Levis,13,1774.28,23065.64,3.0,December,Upi,2025-01-23,2025,1,1
+ORD0499,Mark Hughes,New Stephanie,T-Shirt,Roadster,15,1718.66,25779.9,1.9,March,Upi,2025-10-11,2025,10,4
+ORD0149,Christopher Scott,Lake Jeremyberg,Jeans,Roadster,5,694.21,3471.05,2.8,February,Cash,2025-04-24,2025,4,2
+ORD0047,Jesse Chapman,South Nicholas,Sweater,Adidas,12,2104.7,25256.4,1.6,December,Cash,2025-08-06,2025,8,3
+ORD0094,Ashlee Mendez,Taylorshire,Tracksuit,Puma,12,724.78,8697.36,4.0,April,Card,2025-12-22,2025,12,4
+ORD0407,Lori Frazier,East Chad,Jeans,Adidas,11,3935.84,43294.24,2.7,November,Net Banking,2025-11-28,2025,11,4
+ORD0183,Amy Tyler,Elizabethberg,Lehenga,Nike,12,2019.15,24229.8,1.2,May,Upi,2025-10-11,2025,10,4
+ORD0245,Brooke Guerra,Port Steven,Lehenga,Nike,5,1715.32,8576.6,1.3,March,Net Banking,2025-02-09,2025,2,1
+ORD0274,Christine Rivera,Greenchester,Shorts,Levis,1,4383.87,4383.87,1.4,October,Upi,2025-02-02,2025,2,1
+ORD0391,Kevin Stuart,Port David,Lehenga,Levis,8,4082.55,32660.4,3.4,May,Upi,2025-12-31,2025,12,4
+ORD0454,Amy Tyler,Sharonborough,Skirt,H&M,15,668.89,10033.35,3.0,February,Cash,2025-09-04,2025,9,3
+ORD0353,Ms. Vanessa Fernandez,Davidview,Saree,Puma,11,3642.14,40063.54,2.2,May,Cash,2025-11-04,2025,11,4
+ORD0256,Elizabeth Kent,Lake Marymouth,Jeans,H&M,3,1937.14,5811.42,4.1,December,Cash,2025-08-13,2025,8,3
+ORD0306,Robert Russell,New Stephanie,Shorts,Puma,2,1040.79,2081.58,4.3,February,Upi,2025-03-17,2025,3,1
+ORD0519,Rodney Nelson,Philipborough,Hoodie,Max,7,4861.52,34030.64,2.3,March,Card,2025-10-25,2025,10,4
+ORD0401,Barry Brown,South Courtneyville,Kurti,Zara,15,1816.36,27245.4,4.7,March,Net Banking,2025-10-21,2025,10,4
+ORD0319,Amy Tyler,North Randallstad,Shorts,Zara,1,1393.33,1393.33,3.1,February,Card,2025-03-08,2025,3,1
+ORD0239,Scott Phillips,New Bradleyfurt,Shirt,Levis,2,2354.31,4708.62,2.4,January,Net Banking,2025-06-17,2025,6,2
+ORD0135,Michael Robles,Lake Sarahshire,Saree,Nike,2,2503.93,5007.86,4.2,August,Cash,2025-06-08,2025,6,2
+ORD0490,James Romero,New Stephanie,Kurti,Max,6,2226.08,13356.48,1.4,May,Card,2025-04-02,2025,4,2
+ORD0385,April Davis,East Christina,Saree,Allen Solly,2,3868.8,7737.6,2.4,February,Upi,2025-10-08,2025,10,4
+ORD0070,Amy Tyler,East Justin,Saree,Nike,1,3627.69,3627.69,1.2,May,Card,2025-11-23,2025,11,4
+ORD0383,Sherry Copeland,East Loriberg,Lehenga,Gucci,9,2880.76,25926.84,4.2,January,Card,2025-12-02,2025,12,4
+ORD0323,Marilyn Elliott,North Lisaport,Jacket,Puma,3,3725.51,11176.53,4.8,March,Cash,2025-04-04,2025,4,2
+ORD0347,Jason Stevens,Ewingchester,Lehenga,Trends,11,443.65,4880.15,3.4,February,Upi,2025-06-26,2025,6,2
+ORD0356,Ronald Thompson,East Mary,Saree,Roadster,14,1098.94,15385.16,3.2,May,Upi,2025-10-14,2025,10,4
+ORD0248,Catherine Johnson,Port Scott,Saree,Max,4,2551.35,10205.4,2.6,December,Net Banking,2025-10-22,2025,10,4
+ORD0125,Cameron Reynolds,Lake Danny,Kurti,Levis,12,1824.6,21895.2,3.4,May,Cash,2025-12-12,2025,12,4
+ORD0382,Pamela Williams,Harrismouth,Shorts,Allen Solly,8,713.69,5709.52,2.3,October,Cash,2025-02-22,2025,2,1
+ORD0205,Shane Carter,Dunnhaven,Tracksuit,Levis,4,591.98,2367.92,2.2,December,Upi,2025-12-20,2025,12,4
+ORD0173,Joshua Jenkins,Nortonstad,Lehenga,Roadster,14,883.56,12369.84,1.7,January,Upi,2025-09-23,2025,9,3
+ORD0212,Tamara Brown,Gonzalesmouth,T-Shirt,Puma,3,3914.17,11742.51,4.9,July,Net Banking,2025-08-18,2025,8,3
+ORD0398,Melissa Allen,Brianport,Shirt,Puma,10,4383.59,43835.9,2.8,April,Upi,2025-10-29,2025,10,4
+ORD0509,Carrie Davis,Thomasfurt,Sweater,Trends,13,1732.65,22524.45,3.5,January,Card,2025-08-14,2025,8,3
+ORD0478,Eric Clark,Jonathanland,Kurti,Allen Solly,1,1394.21,1394.21,3.0,December,Net Banking,2025-07-10,2025,7,3
+ORD0211,Christine Williams,Rodriguezton,Shirt,Adidas,2,512.86,1025.72,1.3,October,Cash,2025-08-30,2025,8,3
+ORD0300,Stephanie Fuller,Lisaborough,Skirt,Adidas,1,-2413.4662,-4682.27,3.2,March,Cash,2025-06-21,2025,6,2
+ORD0427,Colleen Powers,Jeffreyhaven,Blazer,Gucci,14,4378.28,61295.92,2.9,June,Card,2025-08-14,2025,8,3
+ORD0020,Michael Williamson,Lake Alexander,Skirt,Gucci,2,755.57,1511.14,2.7,April,Cash,2025-02-01,2025,2,1
+ORD0368,Robert Johnson,New Stephanie,Shorts,Gucci,9,1487.87,13390.83,1.8,February,Net Banking,2025-12-05,2025,12,4
+ORD0057,Emily Clark,North Douglaschester,Top,H&M,1,3820.41,3820.41,4.8,August,Cash,2025-01-16,2025,1,1
+ORD0219,Rachel Patel,Johnfurt,Sweater,Nike,11,2307.84,25386.24,4.9,November,Upi,2025-12-23,2025,12,4
+ORD0451,Steve Combs,Simpsonstad,Shirt,Adidas,7,4790.59,33534.13,1.0,June,Cash,2025-07-24,2025,7,3
+ORD0439,Emily Fields,Dennismouth,Saree,H&M,7,3362.41,23536.87,4.4,March,Upi,2025-12-15,2025,12,4
+ORD0503,Angela Stokes,East Steveport,Top,Gucci,15,4378.81,62502.7088,1.9,July,Cash,2025-11-21,2025,11,4
+ORD0026,Jeff Crawford,Lake Bettymouth,Sweater,H&M,14,1405.46,19676.44,4.6,November,Cash,2025-08-03,2025,8,3
+ORD0279,Timothy Ross,Port Robertoborough,Tracksuit,H&M,2,305.11,610.22,1.5,December,Cash,2025-01-05,2025,1,1
+ORD0043,Rebecca Washington,East Georgeborough,Lehenga,Puma,3,1201.65,3604.95,2.5,September,Upi,2025-07-27,2025,7,3
+ORD0440,Dr. Paul Duffy,Lake Shawn,Lehenga,Adidas,9,3983.81,35854.29,2.5,July,Upi,2025-10-23,2025,10,4
+ORD0249,Mr. Sean Guerra,East Jennifer,Skirt,Adidas,7,1617.41,11321.87,2.5,June,Card,2025-12-16,2025,12,4
+ORD0433,Edward Bauer,West Amyberg,Tracksuit,Roadster,3,3703.68,11111.04,2.8,May,Net Banking,2025-03-09,2025,3,1
+ORD0334,Sarah Smith,Petersonberg,Kurti,Allen Solly,5,2366.78,11833.9,4.3,January,Cash,2025-02-13,2025,2,1
+ORD0155,Jennifer Miller,North Nathanmouth,Tracksuit,Trends,9,4880.88,43927.92,3.1,February,Cash,2025-07-19,2025,7,3
+ORD0127,Rodney Collins,Ericview,Jeans,Puma,11,3087.73,33965.03,2.2,November,Cash,2025-01-04,2025,1,1
+ORD0276,Jennifer Hernandez,Pattersonhaven,Top,Allen Solly,15,3507.99,52619.85,1.4,June,Cash,2025-03-22,2025,3,1
+ORD0362,Amy Tyler,North Lisa,Sweater,Gucci,7,2195.95,15371.65,2.5,November,Upi,2025-01-08,2025,1,1
+ORD0032,Angela Schmidt,Lake Chelseaton,Shorts,Puma,2,3281.14,6562.28,1.2,January,Upi,2025-03-24,2025,3,1
+ORD0114,Amy Tyler,East Allison,Shorts,Levis,10,812.55,8125.5,4.8,September,Upi,2025-08-23,2025,8,3
+ORD0381,David Coleman,Wyatttown,Skirt,Allen Solly,4,1855.21,7420.84,3.0,June,Card,2025-02-10,2025,2,1
+ORD0474,Peter Banks,Rachelchester,Hoodie,Zara,6,1186.28,7117.68,2.7,September,Net Banking,2025-07-13,2025,7,3
+ORD0370,Angel Mcmahon,New Tammy,Jeans,H&M,4,3162.31,12649.24,4.3,August,Net Banking,2025-06-01,2025,6,2
+ORD0058,Daniel Montoya,Lake Philip,Hoodie,Adidas,10,1016.2,10162.0,3.7,January,Upi,2025-07-08,2025,7,3
+ORD0333,Ray Mccullough,South Rachel,Skirt,Gucci,8,4505.92,36047.36,3.6,August,Net Banking,2025-07-09,2025,7,3
+ORD0025,Jack Parker,Port Jason,T-Shirt,Zara,8,2663.4,21307.2,1.6,October,Card,2025-02-05,2025,2,1
+ORD0018,Juan Lewis,New Stephanie,Blazer,Adidas,4,333.8,1335.2,1.2,October,Upi,2025-02-06,2025,2,1
+ORD0457,Joseph Mahoney,Hooperberg,Jeans,Roadster,6,-2413.4662,-21235.74,1.8,August,Upi,2025-04-06,2025,4,2
+ORD0067,Theresa Garcia,Thompsonchester,Hoodie,Gucci,4,1739.17,6956.68,2.9,December,Upi,2025-06-30,2025,6,2
+ORD0229,Amy Tyler,New Stephanie,Tracksuit,Zara,1,4243.62,4243.62,4.3,September,Card,2025-11-19,2025,11,4
+ORD0483,Paul Howell,North Christophermouth,Hoodie,H&M,11,-2340.56,-25746.16,4.2,April,Card,2025-01-05,2025,1,1
+ORD0514,Tracie Valencia,Jorgemouth,Jacket,Trends,6,-2413.4662,-26172.78,4.5,November,Net Banking,2025-09-18,2025,9,3
+ORD0443,Kathryn Terry,Campbellville,Top,Nike,15,3121.15,46817.25,2.1,August,Net Banking,2025-07-25,2025,7,3
+ORD0095,John Scott,West Peter,Jacket,Zara,6,4041.87,24251.22,2.5,January,Card,2025-03-29,2025,3,1
+ORD0185,Kayla Mathis,Lake Kenneth,Lehenga,Levis,9,4713.06,42417.54,1.8,June,Cash,2025-01-20,2025,1,1
+ORD0292,Amber Stevens,Port Wesley,Shirt,Nike,1,1070.01,1070.01,3.1,December,Card,2025-07-10,2025,7,3
+ORD0024,Amy Tyler,Port Terry,Lehenga,Roadster,12,2587.36,31048.32,1.9,November,Cash,2025-06-10,2025,6,2
+ORD0266,Robert Harris,Johnsonhaven,Sweater,Zara,5,453.67,2268.35,2.2,April,Net Banking,2025-10-09,2025,10,4
+ORD0288,Jacob Palmer,Yvonneville,Jacket,Adidas,15,584.2,8763.0,3.0,January,Net Banking,2025-08-05,2025,8,3
+ORD0484,Daniel Davis,Tammyfurt,T-Shirt,Max,8,3535.51,28284.08,4.1,December,Upi,2025-11-17,2025,11,4
+ORD0006,Christopher Morris,Amymouth,Jeans,Adidas,7,1606.48,11245.36,2.5,February,Upi,2025-12-26,2025,12,4
+ORD0117,Michael Evans,Baileyborough,Blazer,Max,2,4027.55,8055.1,3.6,July,Card,2025-08-09,2025,8,3
+ORD0046,Yesenia Lopez,Jamesmouth,Jacket,Adidas,3,414.8,1244.4,2.9,April,Net Banking,2025-11-19,2025,11,4
+ORD0232,Tim Klein,North Kenneth,Top,Trends,13,4716.65,61316.45,4.7,July,Upi,2025-07-01,2025,7,3
+ORD0305,Jeffrey Erickson,North Paul,Jeans,Nike,3,2412.96,7238.88,1.5,February,Net Banking,2025-06-07,2025,6,2
+ORD0017,Jessica Davis,Lake Philip,Jacket,Gucci,11,2055.08,22605.88,2.8,November,Cash,2025-10-29,2025,10,4
+ORD0049,Sarah Garcia,Thomashaven,Blazer,Roadster,6,4765.19,28591.14,3.5,October,Net Banking,2025-03-23,2025,3,1
+ORD0396,Jordan Edwards,Port Brianport,Top,Allen Solly,10,4379.77,43797.7,4.5,February,Card,2025-09-19,2025,9,3
+ORD0004,Amy Tyler,South Kenneth,Jeans,H&M,2,1987.2,3974.4,2.1,July,Cash,2025-07-13,2025,7,3
+ORD0413,Margaret Estrada,Port Holly,Blazer,Roadster,2,496.33,992.66,2.6,March,Card,2025-06-26,2025,6,2
+ORD0223,Richard Bryant,New Stephanie,Shirt,Trends,4,2553.15,10212.6,2.3,September,Card,2025-03-02,2025,3,1
+ORD0061,Nicole Stephens,Lake Susan,Sweater,H&M,13,493.02,6409.26,3.6,October,Cash,2025-08-04,2025,8,3
+ORD0520,Tara Payne,North Christinaview,Blazer,Trends,14,949.12,13287.68,4.6,April,Card,2025-12-02,2025,12,4
+ORD0111,Misty Thompson,Port Derrick,Hoodie,Nike,4,622.47,2489.88,1.8,October,Upi,2025-03-17,2025,3,1
+ORD0354,Joseph Garcia,New Ryanberg,Lehenga,Trends,11,-957.67,-10534.37,3.0,June,Net Banking,2025-07-18,2025,7,3
+ORD0290,Jean Patel,North Wesley,Blazer,Levis,10,3281.18,32811.8,3.7,July,Card,2025-01-30,2025,1,1
+ORD0030,William Knox,New Laurafort,Shirt,Puma,13,-2413.4662,-27618.1413,4.3,October,Card,2025-05-16,2025,5,2
+ORD0422,Amy Tyler,East Theresachester,Shirt,Puma,8,2655.28,21242.24,2.5,March,Card,2025-09-21,2025,9,3
+ORD0453,Ashley Adams,Philiptown,Shirt,Adidas,12,1437.67,17252.04,1.9,April,Upi,2025-03-21,2025,3,1
+ORD0027,Ryan Holmes,New Stephenstad,Tracksuit,Max,9,1786.94,16082.46,3.7,October,Card,2025-12-10,2025,12,4
+ORD0008,Matthew Guerrero,Johnsonland,Saree,Zara,14,450.87,6312.18,2.1,April,Upi,2025-04-19,2025,4,2
+ORD0182,Alexander Gates,West Victoria,Sweater,Levis,1,1622.37,1622.37,4.4,January,Cash,2025-02-25,2025,2,1
+ORD0501,Dr. Lori Johnson,Kimberlyshire,Jacket,Puma,10,2179.05,21790.5,3.9,February,Card,2025-09-07,2025,9,3
+ORD0109,James Travis,East Nicole,Shorts,Allen Solly,14,2004.62,28064.68,2.5,April,Cash,2025-07-23,2025,7,3
+ORD0038,Karen Myers,Stevenside,T-Shirt,Trends,7,1842.83,12899.81,4.9,April,Net Banking,2025-12-14,2025,12,4
+ORD0158,Amy Tyler,Penafort,Shorts,Trends,13,933.81,12139.53,4.8,March,Card,2025-01-22,2025,1,1
+ORD0515,Cindy Nunez,Griffithtown,Shirt,H&M,8,4373.83,34990.64,1.7,June,Cash,2025-01-21,2025,1,1
+ORD0119,Carl Brady,Seanhaven,Kurti,Trends,2,728.76,1457.52,2.7,August,Card,2025-10-12,2025,10,4
+ORD0115,John Rogers,East Kellyville,Tracksuit,Zara,8,4282.3,34258.4,1.4,January,Cash,2025-06-14,2025,6,2
+ORD0287,Charlotte Arnold,Marvinfurt,Top,Max,6,2867.87,17207.22,2.9,July,Cash,2025-01-08,2025,1,1
+ORD0204,Pamela Pennington,Charlesshire,Hoodie,Zara,7,1406.95,9848.65,4.8,May,Cash,2025-05-14,2025,5,2
+ORD0176,Theresa King,Lake Brandytown,T-Shirt,Trends,5,3360.31,16801.55,2.7,October,Upi,2025-11-25,2025,11,4
+ORD0226,Amy Tyler,East Jodi,Hoodie,Levis,7,514.86,3604.02,4.0,June,Net Banking,2025-06-01,2025,6,2
+ORD0221,Cody Gonzalez,Cassandrastad,T-Shirt,Roadster,7,2919.25,20434.75,2.0,July,Net Banking,2025-07-09,2025,7,3
+ORD0145,Adam Joseph,South Jeffrey,Saree,Max,10,2070.58,20705.8,4.3,March,Card,2025-08-13,2025,8,3
+ORD0195,Jack Cook,Lake Suzanne,Top,Levis,5,497.71,2488.55,1.3,March,Net Banking,2025-04-20,2025,4,2
+ORD0409,April Henderson,New Stephanie,Jeans,Max,15,1515.65,22734.75,3.5,April,Cash,2025-10-01,2025,10,4
+ORD0421,Kristi Hunter,New Cherylside,Hoodie,Zara,5,2854.31,14271.55,2.9,September,Card,2025-10-29,2025,10,4
+ORD0238,John Gillespie,North Reneeburgh,Hoodie,Max,11,4513.67,49650.37,4.0,July,Cash,2025-09-14,2025,9,3
+ORD0282,Lori Lambert,New Scott,Sweater,Zara,11,1071.35,11784.85,1.9,October,Net Banking,2025-04-22,2025,4,2
+ORD0404,Megan Lutz,North Craigburgh,Top,Trends,2,3444.01,6888.02,4.6,January,Cash,2025-12-16,2025,12,4
+ORD0142,Katie Duran,Englishstad,Lehenga,Trends,14,900.63,12608.82,4.8,June,Cash,2025-11-27,2025,11,4
+ORD0405,Sarah Mendez,North Rachelton,Saree,Gucci,7,1505.98,10541.86,1.1,February,Net Banking,2025-09-07,2025,9,3
+ORD0068,Gregory Hodge,Port Richard,Shirt,Allen Solly,5,1481.6,7408.0,1.8,May,Card,2025-04-09,2025,4,2
+ORD0297,Daniel Jones,New Markhaven,Hoodie,Gucci,6,1574.91,9449.46,2.5,December,Card,2025-04-25,2025,4,2
+ORD0228,Jenna Bennett,North Kim,Shirt,Trends,8,2465.9,19727.2,2.4,December,Card,2025-10-05,2025,10,4
+ORD0169,Justin Rice,New Erika,Saree,H&M,9,1664.7,14982.3,1.6,September,Card,2025-07-05,2025,7,3
+ORD0517,Jeffrey Smith,Robertsport,Blazer,Puma,11,1511.09,16621.99,5.0,January,Upi,2025-04-26,2025,4,2
+ORD0416,Tracy Scott,Johnsonberg,Jeans,Adidas,10,2589.79,25897.9,1.5,December,Cash,2025-04-10,2025,4,2
+ORD0417,Stacy Francis,New Justin,Saree,Allen Solly,6,3196.81,19180.86,3.3,August,Upi,2025-08-08,2025,8,3
+ORD0194,Kylie Keith,Lake Juanfurt,Shirt,Allen Solly,8,1939.37,15514.96,4.2,June,Net Banking,2025-07-22,2025,7,3
+ORD0082,Mark Foster,West Kristinahaven,Tracksuit,Gucci,1,2437.68,2437.68,2.3,September,Cash,2025-12-03,2025,12,4
+ORD0321,David Frazier,New John,Saree,Trends,10,774.85,7748.5,1.5,July,Net Banking,2025-11-29,2025,11,4
+ORD0146,Bethany Owens,Briggsmouth,T-Shirt,Gucci,11,3682.05,40502.55,3.4,June,Card,2025-10-01,2025,10,4
+ORD0093,Michele Roberts,Johnsonbury,Top,Roadster,6,3245.96,19475.76,3.0,July,Card,2025-11-20,2025,11,4
+ORD0153,Matthew Baker,Amyton,Skirt,Puma,5,872.69,4363.45,3.6,April,Net Banking,2025-11-02,2025,11,4
+ORD0262,Shelia Kelley,North Kelseychester,Sweater,H&M,3,1771.97,5315.91,1.5,November,Net Banking,2025-08-03,2025,8,3
+ORD0435,Susan Fitzgerald,East Nicholas,Sweater,Zara,9,3836.2,34525.8,3.6,September,Cash,2025-12-14,2025,12,4
+ORD0448,Ashley Evans,South Christine,Sweater,Adidas,15,-2198.6,-27618.1413,1.7,August,Upi,2025-06-24,2025,6,2
+ORD0395,Gary Fischer,Port Robert,Jacket,Nike,11,1477.64,16254.04,3.8,May,Cash,2025-07-03,2025,7,3
+ORD0084,Amy Tyler,Bassburgh,Jacket,Roadster,15,1653.74,24806.1,2.9,March,Card,2025-12-30,2025,12,4
+ORD0104,Amy Tyler,Sergioburgh,Shirt,Trends,14,4081.56,57141.84,4.2,July,Net Banking,2025-07-08,2025,7,3
+ORD0166,John Burton,Christineshire,Saree,Allen Solly,10,947.17,9471.7,2.3,February,Cash,2025-04-06,2025,4,2
+ORD0164,Amy Tyler,Lake Zoe,Tracksuit,Trends,6,2711.5,16269.0,1.6,July,Net Banking,2025-01-18,2025,1,1
+ORD0200,Pamela Ali,New Stephanie,T-Shirt,Gucci,3,4702.06,14106.18,4.7,August,Cash,2025-06-21,2025,6,2
+ORD0330,Jacob Cain,Williammouth,T-Shirt,H&M,4,4879.67,19518.68,3.2,June,Upi,2025-06-02,2025,6,2
+ORD0075,Connor Le,South Jeffreyhaven,Tracksuit,H&M,4,1116.92,4467.68,1.0,March,Upi,2025-01-17,2025,1,1
+ORD0342,Debra Conrad,Walltown,Lehenga,Levis,4,531.67,2126.68,2.1,December,Upi,2025-06-09,2025,6,2
+ORD0258,Bradley Edwards,Thompsonside,Blazer,Nike,3,1855.65,5566.95,2.8,September,Card,2025-11-24,2025,11,4
+ORD0518,Jessica Harris,South Heathermouth,Kurti,Levis,11,945.13,10396.43,3.1,July,Card,2025-08-02,2025,8,3
+ORD0120,Emma Orr,New Oscar,T-Shirt,Max,9,1849.34,16644.06,2.4,September,Cash,2025-05-28,2025,5,2
+ORD0311,Michael Harris,Tylerberg,Kurti,Max,14,3704.82,51867.48,2.5,July,Card,2025-05-21,2025,5,2
+ORD0349,Kimberly Ward,Lake Andrewstad,Tracksuit,Adidas,4,1564.69,6258.76,1.1,November,Cash,2025-08-31,2025,8,3
+ORD0393,James Lutz,East Michele,Blazer,Trends,12,842.4,10108.8,2.9,June,Net Banking,2025-12-12,2025,12,4
+ORD0442,Corey Rivera,Petersonton,Hoodie,Roadster,13,1890.66,24578.58,3.8,July,Cash,2025-02-16,2025,2,1
+ORD0423,Robert Ryan,Hamiltonside,Kurti,Allen Solly,3,2961.88,8885.64,4.5,March,Upi,2025-01-21,2025,1,1
+ORD0275,Bryan Harrison,West Megan,Skirt,Roadster,4,4850.2,19400.8,3.0,July,Card,2025-10-17,2025,10,4
+ORD0365,Kevin Guerra,Julieport,Tracksuit,Nike,15,2603.84,39057.6,1.7,June,Cash,2025-04-27,2025,4,2
+ORD0303,Matthew Luna,Jenniferton,Jeans,Roadster,11,4153.83,45692.13,3.3,March,Card,2025-05-30,2025,5,2
+ORD0037,Loretta Newman,New Steven,Kurti,H&M,14,482.01,6748.14,1.8,July,Card,2025-04-25,2025,4,2
+ORD0140,Daniel Miles,South Paige,Blazer,Trends,5,1484.38,7421.9,4.9,July,Cash,2025-10-26,2025,10,4
+ORD0254,Madison Hill,West Russellton,Skirt,Gucci,1,763.45,763.45,4.0,February,Card,2025-08-17,2025,8,3
+ORD0516,Nicole Suarez,West Lynn,Hoodie,Roadster,6,2602.68,15616.08,1.1,May,Upi,2025-05-01,2025,5,2
+ORD0060,Timothy Murphy PhD,East Kimberlyshire,Tracksuit,Gucci,12,1232.15,14785.8,4.3,July,Upi,2025-12-17,2025,12,4
+ORD0112,Erica Mccoy,South Anthony,Skirt,Max,5,4334.51,21672.55,1.5,January,Cash,2025-03-09,2025,3,1
+ORD0291,Joseph King,Andreaview,Hoodie,H&M,2,2430.85,4861.7,2.2,July,Cash,2025-01-07,2025,1,1
+ORD0355,Shane Moore,Simmonsfurt,Shirt,Zara,12,4975.34,59704.08,2.4,October,Net Banking,2025-12-10,2025,12,4
+ORD0263,Courtney Phillips,Landryberg,Sweater,Nike,7,2288.28,16017.96,3.1,October,Card,2025-10-12,2025,10,4
+ORD0400,Tina Taylor,New Stephanie,Jeans,Gucci,7,1611.83,11282.81,1.6,January,Net Banking,2025-12-30,2025,12,4
+ORD0151,Amy Tyler,New Shawn,T-Shirt,Levis,14,3659.11,51227.54,1.6,February,Net Banking,2025-12-23,2025,12,4
+ORD0267,Jesse Hill MD,East Kristystad,Blazer,H&M,2,1559.08,3118.16,5.0,October,Net Banking,2025-10-07,2025,10,4
+ORD0039,Terry Park,Edwardsmouth,Top,Roadster,1,842.11,842.11,1.7,June,Cash,2025-11-02,2025,11,4
+ORD0348,Cynthia Montoya DVM,Michaelborough,Kurti,Puma,14,3537.6,49526.4,2.5,December,Card,2025-04-24,2025,4,2
+ORD0199,Amy Tyler,Anthonytown,T-Shirt,H&M,10,1391.43,13914.3,4.4,November,Net Banking,2025-04-01,2025,4,2
+ORD0285,Charles Brown,New Yeseniastad,Blazer,Max,4,3814.87,15259.48,1.2,September,Net Banking,2025-07-17,2025,7,3
+ORD0147,Lindsey Haley,West Ronald,Hoodie,Puma,15,4225.03,62502.7088,4.8,August,Upi,2025-07-15,2025,7,3
+ORD0434,James Farrell,South Nancy,Jeans,Zara,9,4340.08,39060.72,2.7,April,Net Banking,2025-11-11,2025,11,4
+ORD0148,Samuel Jackson,Port Patrick,Blazer,Roadster,3,4139.39,12418.17,1.6,July,Upi,2025-10-11,2025,10,4
+ORD0450,Kevin Brown,Greenmouth,Skirt,Levis,11,2465.39,27119.29,1.1,August,Card,2025-12-13,2025,12,4
+ORD0486,Amy Tyler,East Marioberg,Shirt,Adidas,12,2075.51,24906.12,2.0,January,Upi,2025-10-05,2025,10,4
+ORD0124,Robert Knight,South Jill,Tracksuit,Gucci,3,3782.55,11347.65,1.4,February,Net Banking,2025-06-24,2025,6,2
+ORD0408,Edward Adams,North Kennethburgh,Top,H&M,11,1022.65,11249.15,2.3,December,Upi,2025-10-13,2025,10,4
+ORD0097,Vincent Sutton,West Shawnton,Jacket,Trends,15,4081.78,61226.7,3.7,January,Upi,2025-10-28,2025,10,4
+ORD0144,Richard Gould,Port Tonyburgh,Kurti,Nike,5,4268.81,21344.05,4.1,February,Cash,2025-12-05,2025,12,4
+ORD0240,David Fernandez,North Benjaminhaven,T-Shirt,Trends,13,4965.15,62502.7088,2.4,May,Net Banking,2025-02-13,2025,2,1
+ORD0302,Donald Phillips,Feliciachester,Shirt,Puma,1,4629.99,4629.99,3.1,February,Cash,2025-10-25,2025,10,4
+ORD0098,Keith Smith,Joneschester,Jacket,Trends,12,1475.46,17705.52,1.8,July,Card,2025-07-15,2025,7,3
+ORD0437,Rita White,South Cindy,Sweater,Max,7,929.25,6504.75,1.9,February,Net Banking,2025-05-12,2025,5,2
+ORD0294,Stephanie Anderson,Port Glenland,Sweater,Trends,8,2439.43,19515.44,3.0,February,Upi,2025-02-22,2025,2,1
+ORD0389,Diana Fisher,Lake Kyleshire,Blazer,Zara,15,2334.21,35013.15,4.7,September,Card,2025-03-07,2025,3,1
+ORD0123,Cynthia Mendoza,Morrisonberg,Tracksuit,Puma,3,1584.37,4753.11,4.7,January,Card,2025-10-17,2025,10,4
+ORD0184,Tony Stewart,West Ricardo,Jacket,H&M,9,2416.67,21750.03,4.3,July,Card,2025-02-19,2025,2,1
+ORD0203,Theresa Martinez,Stevenfurt,Sweater,Trends,14,2310.21,32342.94,2.6,July,Net Banking,2025-06-15,2025,6,2
+ORD0247,Janice Parks,West Paul,Top,Max,13,4352.33,56580.29,2.7,July,Card,2025-06-03,2025,6,2
+ORD0339,Melvin Graham,East Daniel,Saree,Puma,8,-2413.4662,-27618.1413,3.8,September,Cash,2025-08-01,2025,8,3
+ORD0491,Kaitlyn Gonzalez,Amandachester,Top,Zara,2,2581.24,5162.48,3.3,April,Upi,2025-01-26,2025,1,1
+ORD0463,Megan Sanford,West Jason,Blazer,Roadster,6,393.23,2359.38,4.5,May,Card,2025-05-26,2025,5,2
+ORD0332,Ronald Wilson,Danielland,Tracksuit,Max,4,755.84,3023.36,3.6,August,Cash,2025-06-07,2025,6,2
+ORD0438,Amy Tyler,Stephanietown,Hoodie,Zara,12,4010.29,48123.48,1.5,December,Upi,2025-07-29,2025,7,3
+ORD0313,George Gill,Fosterville,Jeans,Puma,3,2270.4,6811.2,4.2,July,Cash,2025-07-15,2025,7,3
+ORD0126,Kelly Bradley,East Randy,Jeans,Puma,11,2292.87,25221.57,2.7,August,Upi,2025-08-09,2025,8,3
+ORD0335,Victoria Diaz,Crystalland,Tracksuit,Levis,7,4862.32,34036.24,3.2,September,Net Banking,2025-10-02,2025,10,4
+ORD0224,Kelly Nguyen,North Jonathanbury,Shirt,Allen Solly,12,3140.69,37688.28,4.7,April,Net Banking,2025-08-27,2025,8,3
+ORD0462,Jon Moore,Lisashire,Shirt,Nike,4,4124.94,16499.76,3.5,January,Upi,2025-07-04,2025,7,3
+ORD0220,Gabriel Crawford,North Anna,Lehenga,Gucci,5,2069.36,10346.8,2.9,March,Card,2025-08-26,2025,8,3
+ORD0130,Tamara Moore,Lake Jeremiahfort,T-Shirt,Allen Solly,14,1771.38,24799.32,2.6,February,Net Banking,2025-01-11,2025,1,1
+ORD0507,Marcus Gilbert,Michaelburgh,Shorts,Roadster,8,2158.0,17264.0,3.2,April,Card,2025-02-06,2025,2,1
+ORD0324,Heather Ibarra,Dillonborough,Sweater,Levis,4,3306.34,13225.36,3.0,October,Upi,2025-06-13,2025,6,2
+ORD0500,Laura James,Jeanmouth,Blazer,Roadster,15,2986.58,44798.7,2.8,October,Card,2025-04-30,2025,4,2
+ORD0418,Leslie Powell,Daniellehaven,Kurti,Zara,4,3992.6,15970.4,3.6,June,Upi,2025-09-03,2025,9,3
+ORD0497,Jennifer Bauer,Douglasborough,Saree,Roadster,14,2047.08,28659.12,2.7,June,Card,2025-07-12,2025,7,3
+ORD0394,Amy Tyler,South Ronald,Shirt,Roadster,15,4282.32,62502.7088,3.1,May,Cash,2025-04-13,2025,4,2
+ORD0325,Antonio Castillo,Michelleshire,Kurti,Trends,14,3632.14,50849.96,4.5,February,Card,2025-12-21,2025,12,4
+ORD0295,Sydney Garcia,North Teresaview,Sweater,Trends,2,1373.5,2747.0,1.2,December,Net Banking,2025-07-06,2025,7,3
+ORD0406,Daniel Mcknight,Fernandezmouth,T-Shirt,Puma,4,1805.47,7221.88,1.4,November,Cash,2025-11-17,2025,11,4
+ORD0376,Kevin Case,Timothyside,Top,Allen Solly,11,4464.78,49112.58,1.5,July,Card,2025-02-23,2025,2,1
+ORD0337,Justin Garcia,West Sandra,Skirt,Allen Solly,3,4869.17,14607.51,1.5,March,Net Banking,2025-04-14,2025,4,2
+ORD0113,William Gonzalez,Carolineville,T-Shirt,Levis,10,1821.73,18217.3,1.2,April,Cash,2025-09-01,2025,9,3
+ORD0180,Mark Freeman,Shaffermouth,Lehenga,Max,4,4824.62,19298.48,4.3,July,Card,2025-03-23,2025,3,1
+ORD0341,Tanner Clark,Stevenview,Saree,Gucci,7,3377.5,23642.5,2.9,May,Net Banking,2025-01-20,2025,1,1
+ORD0375,Miranda Mendez,South Joseph,Sweater,Puma,2,2051.32,4102.64,1.5,December,Net Banking,2025-12-20,2025,12,4
+ORD0366,Mary Hunter,Port Tiffany,Hoodie,Nike,12,402.99,4835.88,1.5,April,Net Banking,2025-11-24,2025,11,4
+ORD0315,Ashley Salinas,Ramirezland,Sweater,Adidas,15,4110.24,61653.6,4.2,January,Card,2025-03-23,2025,3,1
+ORD0152,Tiffany Davis,East Taylorland,Top,Nike,8,-2408.43,-19267.44,1.3,December,Net Banking,2025-02-26,2025,2,1
+ORD0399,Meredith Singh,West Jessica,Blazer,Max,13,3707.1,48192.3,2.8,April,Card,2025-09-21,2025,9,3
+ORD0234,Samuel Brooks,New Trevormouth,Top,Trends,2,2204.81,4409.62,2.9,January,Cash,2025-09-13,2025,9,3
+ORD0494,Julie Brown,Port Jennifer,T-Shirt,H&M,2,4739.64,9479.28,1.4,May,Card,2025-04-09,2025,4,2
+ORD0426,James Cordova,New Michael,Blazer,Max,7,3372.27,23605.89,3.6,March,Net Banking,2025-04-25,2025,4,2
+ORD0165,Amy Tyler,Cervantesbury,Kurti,H&M,13,3332.27,43319.51,4.8,April,Net Banking,2025-07-09,2025,7,3
+ORD0318,Nancy Gray,New Aaron,T-Shirt,Levis,10,967.88,9678.8,4.3,October,Upi,2025-03-31,2025,3,1
+ORD0137,James Jimenez,Melissamouth,Sweater,Roadster,15,492.81,7392.15,3.3,December,Card,2025-02-01,2025,2,1
+ORD0198,Alejandro Walker,Lake Melissa,Kurti,Gucci,15,4439.04,62502.7088,3.6,November,Upi,2025-11-27,2025,11,4
+ORD0259,Melissa Melton,New Stephanie,Tracksuit,Gucci,1,3765.73,3765.73,2.8,July,Card,2025-04-16,2025,4,2
+ORD0233,Kenneth Hernandez,Edwinside,Jacket,Gucci,6,4808.7,28852.2,2.0,February,Cash,2025-12-01,2025,12,4
+ORD0116,Ronald Walker,Jennaview,Sweater,Nike,3,1592.58,4777.74,3.2,February,Upi,2025-08-21,2025,8,3
+ORD0121,Jennifer Blevins DVM,North Samuel,Sweater,Puma,2,3016.22,6032.44,3.6,June,Upi,2025-02-28,2025,2,1
+ORD0387,Samantha Lam,Port Jermainefurt,Sweater,Adidas,2,4672.02,9344.04,2.8,April,Cash,2025-08-01,2025,8,3
+ORD0225,Melinda Reed,Andrewside,Blazer,Trends,5,1529.34,7646.7,3.0,June,Net Banking,2025-06-13,2025,6,2
+ORD0445,Tina Parker,South Matthewville,Hoodie,Trends,5,1215.31,6076.55,3.0,September,Cash,2025-07-04,2025,7,3
+ORD0327,Brian Hunt,Lake Christinachester,Lehenga,Levis,7,776.71,5436.97,4.5,September,Card,2025-08-20,2025,8,3
+ORD0128,Amy Tyler,West Todd,Hoodie,Puma,13,945.0,12285.0,2.3,April,Card,2025-03-08,2025,3,1
+ORD0286,Alexander Richards,New Benjaminland,Jeans,Adidas,11,3091.47,34006.17,4.9,August,Card,2025-07-18,2025,7,3
+ORD0479,Brian Walker,Lindamouth,Shorts,Zara,2,4264.67,8529.34,1.2,June,Net Banking,2025-04-03,2025,4,2
+ORD0513,Gregory Williams PhD,New Stephanie,Kurti,Zara,4,4009.19,16036.76,1.2,May,Net Banking,2025-12-05,2025,12,4
+ORD0108,Joseph Trujillo,New Stephanie,Shirt,Nike,11,765.4,8419.4,2.6,July,Upi,2025-04-22,2025,4,2
+ORD0361,Larry Holland,East Josephton,Tracksuit,Zara,8,1585.58,12684.64,1.7,January,Cash,2025-03-08,2025,3,1
+ORD0134,Jason Joseph,Jeffreymouth,Skirt,Trends,8,3845.9,30767.2,2.8,August,Upi,2025-11-18,2025,11,4
+ORD0403,Carl Dunn,East Charles,Blazer,Roadster,2,1942.19,3884.38,3.7,July,Net Banking,2025-10-15,2025,10,4
+ORD0045,Scott Spears,Port Timothyhaven,Shorts,Nike,2,1633.8,3267.6,3.5,November,Card,2025-12-11,2025,12,4
+ORD0510,Christopher Beltran,North Kelliport,T-Shirt,Adidas,11,2056.96,22626.56,4.4,April,Card,2025-05-28,2025,5,2
+ORD0066,Darryl Dunn,North Pamelaberg,Shirt,Gucci,9,3863.37,34770.33,3.6,August,Cash,2025-05-31,2025,5,2
+ORD0284,Eduardo Butler,New Stephanie,Tracksuit,H&M,9,3124.7,28122.3,2.1,April,Upi,2025-04-16,2025,4,2
+ORD0086,Desiree Robertson,Karinastad,Top,Nike,15,3668.04,55020.6,2.1,August,Card,2025-08-22,2025,8,3
+ORD0243,Linda Perez,Powersport,Shorts,Roadster,9,-2217.81,-19960.29,2.4,September,Upi,2025-07-17,2025,7,3
+ORD0187,Elizabeth Watson,Kristiestad,Sweater,Puma,6,2684.38,16106.28,3.0,October,Cash,2025-07-08,2025,7,3
+ORD0425,Michael Schneider,Jamesshire,Shorts,Zara,11,1823.13,20054.43,3.1,January,Upi,2025-10-24,2025,10,4
+ORD0160,Susan Gutierrez,Port Chad,Top,Trends,5,885.03,4425.15,4.6,June,Net Banking,2025-06-23,2025,6,2
+ORD0013,Stephanie King,South Philip,Shirt,Puma,13,1139.66,14815.58,4.5,September,Card,2025-03-20,2025,3,1
+ORD0036,Mark Taylor,Shermanberg,Skirt,Nike,1,1143.0,1143.0,4.1,July,Card,2025-05-17,2025,5,2
+ORD0029,William Harrell,West Toniside,Blazer,Adidas,5,922.55,4612.75,1.3,September,Net Banking,2025-10-06,2025,10,4
+ORD0171,Colleen Espinoza,North Zachary,Kurti,Max,2,1753.67,3507.34,3.9,February,Cash,2025-03-06,2025,3,1
+ORD0143,Mario Stewart,Beanshire,Tracksuit,Gucci,6,385.68,2314.08,4.8,September,Card,2025-04-26,2025,4,2
+ORD0441,Heather Estrada,Tiffanyfurt,Saree,Gucci,3,4318.49,12955.47,4.0,December,Card,2025-02-21,2025,2,1
+ORD0378,James Mcfarland,Port Joseph,Shorts,H&M,8,516.07,4128.56,2.3,July,Card,2025-12-09,2025,12,4
+ORD0222,Victoria Carter,Raymondhaven,Jeans,Roadster,14,1195.26,16733.64,3.7,December,Card,2025-10-28,2025,10,4
+ORD0096,Mrs. Nancy Conner,East Amyland,Kurti,H&M,14,2097.96,29371.44,3.0,October,Upi,2025-08-24,2025,8,3
+ORD0052,Thomas Cox,North Jerome,Kurti,Adidas,7,2215.72,15510.04,2.7,February,Cash,2025-10-22,2025,10,4
+ORD0241,Susan Sherman,Lake Donald,Skirt,Max,13,1458.31,18958.03,2.1,May,Card,2025-07-19,2025,7,3
+ORD0412,Sarah Moss,Amandaberg,Blazer,Adidas,12,2137.67,25652.04,3.2,March,Upi,2025-01-06,2025,1,1
+ORD0352,Ryan Tyler,Aliberg,Tracksuit,Levis,11,3090.73,33998.03,3.7,September,Upi,2025-11-24,2025,11,4
+ORD0468,Charles Mitchell,New Stephanie,Jeans,H&M,15,4429.85,62502.7088,1.1,February,Cash,2025-02-23,2025,2,1
+ORD0179,Alexander Jones,Mitchellview,Skirt,Levis,9,799.06,7191.54,1.5,September,Cash,2025-05-29,2025,5,2
+ORD0432,Robert Lucas,Hudsonbury,Shorts,Max,14,2563.84,35893.76,2.6,August,Card,2025-11-16,2025,11,4
+ORD0042,Jennifer Edwards,Port Pamelashire,Jeans,Trends,10,1775.4,17754.0,3.9,June,Net Banking,2025-06-17,2025,6,2
+ORD0482,Steve Garcia MD,Mckayland,Tracksuit,Zara,15,2883.03,43245.45,2.9,December,Cash,2025-12-08,2025,12,4
+ORD0429,Danielle Andersen,Simonview,Hoodie,Gucci,12,832.69,9992.28,2.9,June,Net Banking,2025-01-12,2025,1,1
+ORD0207,James Thomas,Port Eric,Shirt,Roadster,13,2826.33,36742.29,1.9,August,Cash,2025-09-27,2025,9,3
+ORD0283,Brett Pugh,Michaelburgh,Jeans,H&M,13,878.84,11424.92,2.4,March,Card,2025-05-22,2025,5,2
+ORD0359,Robert Soto,Thomasville,Hoodie,Roadster,14,3499.28,48989.92,2.7,February,Card,2025-06-25,2025,6,2
+ORD0255,Justin Reed,Michaelborough,Saree,Gucci,13,3493.91,45420.83,1.6,August,Upi,2025-08-01,2025,8,3
+ORD0456,Amy Tyler,Richardsonmouth,Hoodie,Max,1,2770.96,2770.96,4.8,March,Card,2025-08-23,2025,8,3
+ORD0005,Jessica Bryant,Adrienneburgh,Jeans,Roadster,14,3254.61,45564.54,2.4,May,Card,2025-05-29,2025,5,2
+ORD0257,Benjamin Foster,Duncanview,Shirt,Allen Solly,2,1711.24,3422.48,1.5,June,Card,2025-05-05,2025,5,2
+ORD0496,Steven Rodriguez,South Preston,Shorts,Trends,15,789.28,11839.2,3.2,July,Net Banking,2025-06-30,2025,6,2
+ORD0101,Mark Brown,Robertville,Jeans,Trends,1,1751.98,1751.98,3.3,November,Upi,2025-06-17,2025,6,2
+ORD0227,Sandra Hunt,Alexmouth,Kurti,Adidas,4,2085.25,8341.0,3.0,June,Upi,2025-09-08,2025,9,3
+ORD0471,Mary Hall,North Rachelfort,Shorts,Nike,9,1132.07,10188.63,3.5,December,Upi,2025-06-27,2025,6,2
+ORD0214,Jennifer Whitaker,Brandtborough,Lehenga,Roadster,12,4900.0,58800.0,4.0,March,Net Banking,2025-09-30,2025,9,3
+ORD0466,Ronald Obrien,South Patricialand,Tracksuit,Puma,5,3145.31,15726.55,4.6,December,Net Banking,2025-07-31,2025,7,3
+ORD0172,James Horton,Bethanyshire,Saree,Trends,8,2489.42,19915.36,1.5,February,Card,2025-03-08,2025,3,1
+ORD0099,Jasmine Nguyen,Lake Valeriefurt,Sweater,Levis,5,4965.65,24828.25,4.9,October,Cash,2025-11-07,2025,11,4
+ORD0293,Thomas Coleman,West Carlos,Kurti,Puma,15,854.87,12823.05,2.3,December,Upi,2025-12-31,2025,12,4
+ORD0216,Matthew Ortega,North Michellemouth,Skirt,Zara,4,616.27,2465.08,2.8,April,Card,2025-01-23,2025,1,1
+ORD0062,David Collins,Johnville,Top,Allen Solly,7,4815.7,33709.9,4.3,February,Upi,2025-11-12,2025,11,4
+ORD0048,Angela Ruiz,East Jordan,Hoodie,Nike,9,2483.38,22350.42,4.7,December,Net Banking,2025-12-08,2025,12,4
+ORD0033,Robyn Long,Garymouth,Shirt,Allen Solly,12,-2310.13,-27618.1413,1.3,September,Cash,2025-07-09,2025,7,3
+ORD0268,Sarah Brooks,Sandrachester,Hoodie,Gucci,12,4201.33,50415.96,2.2,February,Upi,2025-02-14,2025,2,1
+ORD0328,Lisa Marsh,Rileyton,Jeans,Zara,1,1797.97,1797.97,1.3,May,Cash,2025-10-08,2025,10,4
+ORD0201,Mary George,South Maryfort,Jacket,Allen Solly,9,2764.3,24878.7,1.5,November,Cash,2025-06-19,2025,6,2
+ORD0493,Zoe English,Alvarezfort,Skirt,Trends,6,2922.69,17536.14,2.7,January,Upi,2025-09-28,2025,9,3
+ORD0028,Jared Young,South Christophermouth,Tracksuit,Puma,6,4666.39,27998.34,1.0,August,Cash,2025-02-07,2025,2,1
+ORD0472,Vanessa George,New Stephanie,Shorts,Roadster,13,720.9,9371.7,2.6,April,Card,2025-06-26,2025,6,2
+ORD0231,Brandon Clark,South Jenniferton,Shorts,Zara,9,-2413.4662,-26034.48,3.1,January,Cash,2025-09-15,2025,9,3
+ORD0261,Courtney Gillespie,Port Emilychester,Tracksuit,Levis,7,3173.15,22212.05,2.4,October,Upi,2025-11-11,2025,11,4
+ORD0379,Ronnie Campos,West Daisy,Top,Levis,9,3534.74,31812.66,2.7,September,Net Banking,2025-03-18,2025,3,1
+ORD0289,Jason Hammond,Laurashire,Shirt,Gucci,11,2821.85,31040.35,2.1,February,Card,2025-03-21,2025,3,1
+ORD0163,David Mccullough,South Frankland,Shirt,Allen Solly,8,499.07,3992.56,2.4,June,Cash,2025-02-08,2025,2,1
+ORD0392,Sandra Maxwell,Lake Erin,Shirt,Roadster,4,1244.18,4976.72,2.2,November,Card,2025-09-15,2025,9,3
+ORD0469,Susan Hill,Christopherberg,Jacket,Max,2,3377.71,6755.42,2.2,March,Card,2025-03-09,2025,3,1
+ORD0139,Mark Hubbard,South Jon,Saree,Puma,7,3939.98,27579.86,1.2,July,Upi,2025-02-18,2025,2,1
+ORD0063,Travis Walker,New Brittany,Skirt,Roadster,8,2347.2,18777.6,2.1,August,Cash,2025-05-23,2025,5,2
+ORD0136,Christine May MD,Taraville,Shorts,Allen Solly,1,2033.07,2033.07,3.6,January,Net Banking,2025-08-25,2025,8,3
+ORD0129,Jennifer Hunt,New Charlesstad,Lehenga,Roadster,4,2651.23,10604.92,4.2,December,Cash,2025-08-12,2025,8,3
+ORD0122,Amy Tyler,South Matthewstad,Skirt,Puma,4,4093.94,16375.76,4.9,October,Cash,2025-11-08,2025,11,4
+ORD0009,Daniel Thomas,West Mariahaven,Tracksuit,Allen Solly,15,4598.37,62502.7088,2.1,July,Upi,2025-10-27,2025,10,4
+ORD0345,Leslie Hubbard,New Jeffreyview,Blazer,Nike,5,3634.98,18174.9,4.1,February,Card,2025-04-09,2025,4,2
+ORD0065,Amy Tyler,New Ericstad,Skirt,Puma,5,4437.5,22187.5,2.1,June,Cash,2025-05-04,2025,5,2
+ORD0301,Edgar Barnett,New Stephanie,T-Shirt,Trends,14,3768.99,52765.86,1.8,July,Cash,2025-03-14,2025,3,1
+ORD0015,Mackenzie Benson,Port Brandon,Hoodie,Zara,15,2966.58,44498.7,3.9,April,Card,2025-03-07,2025,3,1
+ORD0157,Judith Scott,New Donaldside,Tracksuit,H&M,12,3856.39,46276.68,2.4,October,Net Banking,2025-12-23,2025,12,4
+ORD0041,Benjamin Roberts,Steelemouth,Shirt,Gucci,9,4650.2,41851.8,3.9,January,Upi,2025-08-09,2025,8,3
+ORD0380,Todd Lewis,New Mandyview,Top,Roadster,1,354.73,354.73,3.0,October,Card,2025-02-08,2025,2,1
+ORD0508,Justin Ross,Darrellland,Jacket,Gucci,11,4643.45,51077.95,3.7,June,Upi,2025-06-26,2025,6,2
+ORD0452,Jennifer Hudson,Hayesmouth,Tracksuit,Levis,9,4677.56,42098.04,2.4,February,Card,2025-09-13,2025,9,3
+ORD0217,Amanda Stafford,New David,Lehenga,Allen Solly,9,1321.17,11890.53,1.2,April,Upi,2025-10-23,2025,10,4
+ORD0410,Alyssa Williams,Lake Julie,T-Shirt,Trends,10,597.22,5972.2,1.2,December,Cash,2025-05-29,2025,5,2
+ORD0280,Larry Dunn,Brentbury,Shirt,Levis,14,2284.88,31988.32,1.3,February,Cash,2025-02-22,2025,2,1
+ORD0481,Heather Smith,West Melissaport,Hoodie,Allen Solly,13,741.61,9640.93,1.8,December,Upi,2025-03-23,2025,3,1
+ORD0477,Amy Tyler,Kendramouth,Shirt,Max,4,1807.03,7228.12,4.9,August,Upi,2025-05-18,2025,5,2
+ORD0338,Sara Miller,Houseburgh,Top,Trends,14,3096.72,43354.08,3.9,March,Net Banking,2025-10-10,2025,10,4
+ORD0237,Tyler Miller,East Chadshire,Top,Levis,4,3059.07,12236.28,3.9,January,Card,2025-10-16,2025,10,4
+ORD0208,Aaron Hall,Brittanyshire,Shorts,Roadster,6,667.08,4002.48,1.2,December,Card,2025-03-26,2025,3,1
+ORD0213,Jessica Carter,Mayview,Top,Gucci,2,3508.83,7017.66,3.2,July,Card,2025-10-03,2025,10,4
+ORD0296,Justin Hooper,Roberthaven,Lehenga,Nike,15,-2413.4662,-27618.1413,4.2,March,Card,2025-06-14,2025,6,2
+ORD0505,Ricky Doyle,Denisemouth,T-Shirt,Trends,7,4863.89,34047.23,3.3,December,Net Banking,2025-03-17,2025,3,1
+ORD0252,Linda Kerr,Bradymouth,Lehenga,Roadster,15,4625.84,62502.7088,3.2,September,Cash,2025-02-25,2025,2,1
+ORD0506,Kevin Raymond,Craigmouth,Kurti,Levis,8,2985.77,23886.16,2.6,February,Card,2025-03-11,2025,3,1
+ORD0304,Christopher Willis,Kennedyberg,Jacket,Levis,12,4209.93,50519.16,2.8,July,Card,2025-10-27,2025,10,4
+ORD0351,Eric Middleton,South Angela,Lehenga,Levis,5,1325.58,6627.9,3.1,August,Cash,2025-09-19,2025,9,3
+ORD0270,Allison Jones DDS,Heatherborough,Kurti,Adidas,13,578.98,7526.74,2.1,April,Upi,2025-05-29,2025,5,2
+ORD0502,Jonathan Ochoa,Donnaland,Top,Max,10,-2413.4662,-27618.1413,4.2,February,Upi,2025-06-28,2025,6,2
+ORD0202,Donna Anderson,Brianfort,Kurti,Allen Solly,5,-2413.4662,-18387.05,2.3,November,Card,2025-03-31,2025,3,1
+ORD0162,Sharon Stanton,Gregorychester,Top,Nike,5,1809.69,9048.45,3.6,September,Net Banking,2025-03-27,2025,3,1
+ORD0044,Victoria Floyd,Christinatown,Blazer,Zara,5,1287.86,6439.3,3.4,May,Card,2025-09-19,2025,9,3
+ORD0218,Stacy Davis,Davisbury,Sweater,Trends,4,1718.29,6873.16,3.6,June,Cash,2025-10-13,2025,10,4
+ORD0402,John Wong,North Spencer,Blazer,Levis,13,3626.1,47139.3,4.8,February,Card,2025-08-01,2025,8,3
+ORD0191,Michael Long,South Johnbury,Hoodie,Gucci,13,3173.95,41261.35,4.4,September,Card,2025-10-15,2025,10,4
+ORD0310,Jeremy Garcia,New Stephanie,Hoodie,Trends,13,905.32,11769.16,4.3,August,Net Banking,2025-01-26,2025,1,1
+ORD0260,Todd Mccall,Lake Sarah,Jacket,H&M,2,4057.66,8115.32,2.5,October,Net Banking,2025-09-28,2025,9,3
+ORD0106,Alan Ortiz,Hensleyside,Hoodie,Trends,11,4172.12,45893.32,2.2,February,Cash,2025-06-05,2025,6,2
+ORD0054,Andrew Jackson,New Debraport,Hoodie,Puma,8,436.42,3491.36,3.7,July,Net Banking,2025-03-07,2025,3,1
+ORD0390,Justin Rodriguez,Sharpstad,Jeans,Gucci,10,3148.96,31489.6,4.5,November,Card,2025-05-21,2025,5,2
+ORD0002,Aaron Scott,Josechester,Lehenga,Zara,2,1327.6,2655.2,1.1,January,Net Banking,2025-04-23,2025,4,2
+ORD0488,Spencer Anderson,Hernandezhaven,Blazer,Nike,5,4151.27,20756.35,2.8,August,Card,2025-01-10,2025,1,1
+ORD0360,Gary Rich,Heatherburgh,Lehenga,Max,3,1787.0,5361.0,4.1,August,Card,2025-06-10,2025,6,2
+ORD0050,Michael Jones,Comptonhaven,Shirt,Allen Solly,5,3833.35,19166.75,2.1,August,Card,2025-05-21,2025,5,2
+ORD0420,Brandon Reid,Port Austin,Hoodie,Puma,15,3245.11,48676.65,4.6,December,Net Banking,2025-10-30,2025,10,4
+ORD0081,Philip Parks,Garzafort,Top,Allen Solly,8,1935.42,15483.36,3.7,February,Net Banking,2025-05-28,2025,5,2
+ORD0206,Brittany West,Kristyburgh,Jeans,Trends,6,3188.74,19132.44,1.5,May,Upi,2025-08-01,2025,8,3
+ORD0035,Kristen Bowen,East Franceschester,Tracksuit,Adidas,2,1962.29,3924.58,4.5,November,Card,2025-03-25,2025,3,1
+ORD0431,Jennifer Ross,Harrisfort,Kurti,Roadster,10,4855.45,48554.5,4.5,July,Cash,2025-04-21,2025,4,2
+ORD0264,Andrew Ward,New Pamelaburgh,Kurti,Allen Solly,3,1179.36,3538.08,3.5,May,Net Banking,2025-03-11,2025,3,1
+ORD0428,Carolyn Pope,Lake Christopher,Kurti,Adidas,9,3324.34,29919.06,1.7,February,Cash,2025-12-05,2025,12,4
+ORD0455,Paul Phillips,New Kristiview,Saree,Max,8,4521.17,36169.36,3.3,June,Upi,2025-07-23,2025,7,3
+ORD0444,Miranda Bell,Lake Angela,Sweater,Trends,5,3644.55,18222.75,4.8,September,Net Banking,2025-01-06,2025,1,1
+ORD0367,Richard Mitchell,New Stephanie,Jacket,Roadster,1,3091.44,3091.44,1.4,October,Cash,2025-08-02,2025,8,3
+ORD0092,Brendan Ruiz,West Nicoleville,Lehenga,Trends,2,2506.61,5013.22,2.4,March,Upi,2025-12-12,2025,12,4
+ORD0340,Donald Shepherd,East Benjamin,Kurti,Nike,10,3038.58,30385.8,1.4,October,Upi,2025-10-02,2025,10,4
+ORD0053,Joshua Fox,Mendozatown,Lehenga,Allen Solly,6,1703.48,10220.88,4.6,January,Card,2025-09-07,2025,9,3
+ORD0346,Paul Turner,Jonesmouth,Top,Adidas,4,455.43,1821.72,2.4,January,Net Banking,2025-09-16,2025,9,3
+ORD0265,Tammy Parker,South Joseph,Hoodie,Gucci,9,3369.43,30324.87,3.0,September,Card,2025-02-12,2025,2,1
+ORD0242,Ryan Jackson,Matthewsborough,Saree,Levis,2,324.42,648.84,2.4,February,Card,2025-08-09,2025,8,3
+ORD0014,Mark Taylor,Garciahaven,Saree,Nike,13,4635.44,60260.72,3.4,September,Upi,2025-06-07,2025,6,2
+ORD0316,Amy Tyler,South Johnny,Jeans,Adidas,4,1552.68,6210.72,4.7,November,Card,2025-10-22,2025,10,4
+ORD0089,Tasha Moreno,Dyerbury,Blazer,Allen Solly,6,2894.01,17364.06,2.8,June,Card,2025-10-20,2025,10,4
+ORD0388,Donna Cobb,New Abigail,T-Shirt,Trends,10,879.13,8791.3,2.8,November,Net Banking,2025-01-03,2025,1,1
+ORD0167,Cheyenne Elliott,Jessicachester,Shorts,Roadster,15,2939.86,44097.9,2.0,July,Upi,2025-12-22,2025,12,4
+ORD0329,Devin Brown,Tuckerstad,Jeans,Levis,10,4498.16,44981.6,2.7,October,Net Banking,2025-03-22,2025,3,1
+ORD0307,Calvin Lowe PhD,New Stephanie,Jeans,Adidas,7,2713.26,18992.82,2.0,June,Net Banking,2025-08-20,2025,8,3
+ORD0485,William Brooks,North James,T-Shirt,Zara,11,1023.42,11257.62,1.4,June,Upi,2025-08-13,2025,8,3
+ORD0320,Kyle Jackson,Lawsontown,Saree,Nike,1,402.99,402.99,4.7,June,Upi,2025-02-07,2025,2,1
+ORD0244,Ashley Perry,Johnhaven,T-Shirt,Puma,7,3962.09,27734.63,3.2,July,Card,2025-12-17,2025,12,4
+ORD0055,Peter Garza,Lake Derek,Sweater,Roadster,15,2151.9,32278.5,1.1,January,Net Banking,2025-04-04,2025,4,2
+ORD0364,Patrick Stein,West Julia,Lehenga,Roadster,5,1084.99,5424.95,2.2,October,Upi,2025-08-11,2025,8,3
+ORD0051,Mark Cervantes,Leeburgh,Shorts,H&M,5,1402.12,7010.6,4.6,December,Net Banking,2025-12-22,2025,12,4
+ORD0504,Melissa Tucker,Smithborough,Skirt,Trends,1,1732.48,1732.48,3.2,July,Card,2025-03-20,2025,3,1
+ORD0175,April Alvarado,New Stephanie,Sweater,Nike,11,3235.05,35585.55,2.4,March,Cash,2025-02-11,2025,2,1
+ORD0446,Crystal Wong,North Josemouth,Hoodie,Trends,3,708.16,2124.48,2.6,January,Card,2025-09-23,2025,9,3
+ORD0190,Savannah Velasquez,Katherineburgh,Top,Trends,1,2991.08,2991.08,1.8,April,Net Banking,2025-12-20,2025,12,4
+ORD0464,Julie Walker,North Kristenberg,Saree,Levis,9,2591.22,23320.98,4.6,November,Card,2025-03-27,2025,3,1
+ORD0188,April Davis,New Stephanie,Saree,Trends,7,3043.4,21303.8,3.9,February,Net Banking,2025-05-16,2025,5,2
+ORD0476,Cynthia Brown,Ramosview,Tracksuit,Roadster,7,1183.6,8285.2,1.5,May,Net Banking,2025-05-20,2025,5,2
+ORD0170,Robert Underwood,Matthewshire,Blazer,Adidas,4,4022.71,16090.84,3.0,February,Net Banking,2025-10-10,2025,10,4
+ORD0511,Nathan Small,Stevenview,T-Shirt,Levis,13,823.01,10699.13,1.1,December,Card,2025-10-07,2025,10,4
+ORD0059,Philip Mendez,Wardfort,Kurti,Max,12,3676.28,44115.36,1.7,October,Upi,2025-10-22,2025,10,4
+ORD0475,Elizabeth Nielsen,New Jeremytown,Hoodie,Puma,7,3239.02,22673.14,4.2,February,Upi,2025-05-26,2025,5,2
+ORD0253,Patricia Hart,South Williamshire,Skirt,Adidas,11,1968.54,21653.94,1.2,November,Net Banking,2025-06-19,2025,6,2
+ORD0022,Michael Roth,West Stephenville,Skirt,Roadster,1,3365.08,3365.08,1.1,February,Card,2025-03-27,2025,3,1
+ORD0314,Rita Sullivan,Timmouth,Skirt,Levis,9,3972.74,35754.66,3.3,August,Cash,2025-06-13,2025,6,2
+ORD0460,Lawrence Massey,Cruzview,Blazer,Gucci,4,985.47,3941.88,1.6,July,Net Banking,2025-03-10,2025,3,1
+ORD0161,Eric Williams,Darlenetown,Kurti,Allen Solly,8,2026.53,16212.24,2.1,December,Net Banking,2025-11-05,2025,11,4
+ORD0277,Bobby Wolfe,Laurenton,Shorts,Allen Solly,7,1250.9,8756.3,1.5,January,Upi,2025-02-17,2025,2,1
+ORD0192,Shannon Perkins,Joanntown,Saree,Trends,9,2071.08,18639.72,2.8,August,Upi,2025-11-09,2025,11,4
+ORD0386,John Reid,Hoside,Blazer,Levis,2,515.16,1030.32,1.6,December,Cash,2025-05-11,2025,5,2
+ORD0414,Michelle Palmer,Robertborough,Hoodie,Gucci,14,2709.0,37926.0,1.9,November,Card,2025-12-10,2025,12,4
+ORD0492,Donald Olson,Woodbury,Saree,Adidas,12,633.11,7597.32,1.8,October,Cash,2025-08-28,2025,8,3
+ORD0344,Robert Powers,Jasminland,Shirt,Gucci,11,719.65,7916.15,4.7,October,Upi,2025-01-29,2025,1,1
+ORD0309,Jose Johnson,Rodgersbury,Hoodie,Gucci,11,3262.4,35886.4,3.3,June,Cash,2025-02-03,2025,2,1
+ORD0131,Thomas Duran,Ramosfurt,Saree,Nike,8,4210.52,33684.16,1.4,October,Net Banking,2025-09-26,2025,9,3
+ORD0100,Danielle Miller,Samanthachester,Shirt,Allen Solly,13,4054.64,52710.32,2.4,May,Card,2025-11-18,2025,11,4
+ORD0373,Amy Tyler,Megantown,Hoodie,Allen Solly,5,2482.1,12410.5,1.7,May,Upi,2025-08-07,2025,8,3
+ORD0088,Adam Roman,New Thomasview,Skirt,Roadster,14,312.06,4368.84,4.3,May,Card,2025-08-17,2025,8,3
+ORD0459,Michael Alexander,Taylorstad,Top,Gucci,8,1145.48,9163.84,3.3,May,Upi,2025-05-01,2025,5,2
+ORD0331,Janice Blair DDS,Torresview,Hoodie,H&M,7,2987.32,20911.24,1.6,January,Upi,2025-12-05,2025,12,4
+ORD0215,Tyler Jackson,West Jeffreyborough,Lehenga,Adidas,8,1926.95,15415.6,4.7,April,Net Banking,2025-11-11,2025,11,4
+ORD0467,Michael Travis,Christopherburgh,Kurti,Nike,3,3720.53,11161.59,4.8,January,Card,2025-07-23,2025,7,3
+ORD0021,Jose Flores,Bryantfurt,Lehenga,Levis,4,1200.47,4801.88,1.6,February,Cash,2025-08-15,2025,8,3
+ORD0072,Dakota Williams,Stuartburgh,Jeans,H&M,8,648.19,5185.52,1.2,July,Upi,2025-02-13,2025,2,1
+ORD0107,Edward Green,Griffinberg,Shorts,H&M,4,4470.12,17880.48,2.8,February,Net Banking,2025-10-28,2025,10,4
+ORD0271,Susan Butler,Brandonton,Sweater,Puma,15,3492.71,52390.65,4.9,September,Upi,2025-12-02,2025,12,4
+ORD0436,Courtney Edwards,Riddlechester,Tracksuit,Gucci,7,2040.77,14285.39,3.1,September,Net Banking,2025-06-29,2025,6,2
+ORD0103,Katie Williams,Johnborough,Top,Allen Solly,12,4390.87,52690.44,2.9,May,Card,2025-12-13,2025,12,4

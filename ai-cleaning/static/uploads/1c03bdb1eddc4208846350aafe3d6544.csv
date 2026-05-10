@@ -1,0 +1,201 @@
+ID,Customer Name,Product Bought,Price,Payment Mode,State
+1,Chris White,Keyboard,1349,UPI,Pennsylvania
+2,Jane Smith,Smartwatch,455,Debit Card,Florida
+3,Chris Martin,Camera,697,UPI,Illinois
+4,David Smith,Smartphone,466,Credit Card,New York
+5,Jane Johnson,Camera,1064,Cash,Texas
+6,Alice Smith,Keyboard,1041,UPI,Texas
+7,Michael Smith,Camera,845,Net Banking,Florida
+8,Emma Smith,Printer,728,Cash,New York
+9,Emma Martin,Smartphone,839,Net Banking,Michigan
+10,Sarah Brown,Monitor,320,Net Banking,Michigan
+11,Jane Thomas,Keyboard,1001,Debit Card,New York
+12,Bob Smith,Smartwatch,135,Credit Card,Ohio
+13,Sarah Thomas,Keyboard,98,Net Banking,Florida
+14,Bob Brown,Tablet,675,Debit Card,Florida
+15,Chris Jackson,Headphones,529,Debit Card,New York
+16,Michael Brown,Tablet,383,UPI,Georgia
+17,David Martin,Smartphone,498,Debit Card,Ohio
+18,Emma Thomas,Tablet,716,Debit Card,Ohio
+19,Olivia Jackson,Smartphone,1301,UPI,Georgia
+20,Alice Brown,Camera,652,Net Banking,Texas
+21,Sarah Thomas,Keyboard,797,Net Banking,New York
+22,Bob Harris,Keyboard,663,Cash,New York
+23,Michael Smith,Smartphone,1011,Credit Card,New York
+24,Chris Smith,Smartwatch,493,Cash,Illinois
+25,Chris White,Laptop,1088,Credit Card,Georgia
+26,Emma Brown,Printer,805,Net Banking,Michigan
+27,Alice Thomas,Monitor,675,Credit Card,Ohio
+28,Bob Brown,Smartwatch,505,Net Banking,California
+29,Jane Thomas,Smartphone,1478,UPI,Texas
+30,Olivia Jackson,Tablet,913,Cash,Texas
+31,John Harris,Laptop,1301,Debit Card,Michigan
+32,David Anderson,Monitor,1037,Credit Card,North Carolina
+33,Michael Anderson,Smartwatch,268,UPI,Ohio
+34,Sarah Johnson,Smartphone,676,Debit Card,New York
+35,Chris Jackson,Smartwatch,1204,Cash,Georgia
+36,John Harris,Mouse,347,Debit Card,Texas
+37,Bob Brown,Headphones,1425,UPI,Florida
+38,Sarah Jackson,Laptop,1441,Cash,Texas
+39,Alice Thomas,Monitor,232,Cash,Florida
+40,Alice Martin,Laptop,717,Debit Card,California
+41,Emma White,Keyboard,221,Credit Card,Michigan
+42,Emma Harris,Mouse,1419,Cash,New York
+43,Chris Jackson,Tablet,258,Cash,Florida
+44,Emma Martin,Camera,1170,Net Banking,Georgia
+45,Michael Jackson,Laptop,361,Credit Card,Florida
+46,Olivia Jackson,Tablet,187,Debit Card,California
+47,Chris White,Monitor,169,UPI,North Carolina
+48,John Smith,Monitor,763,Net Banking,Illinois
+49,Chris Johnson,Smartphone,1375,Cash,Texas
+50,Olivia Harris,Smartphone,1368,Net Banking,Florida
+51,Olivia Smith,Printer,416,Credit Card,Pennsylvania
+52,David Jackson,Mouse,1086,Credit Card,Pennsylvania
+53,Alice Smith,Headphones,1114,UPI,Georgia
+54,Michael Anderson,Printer,604,Cash,Michigan
+55,Michael Johnson,Keyboard,308,Cash,Ohio
+56,Chris Taylor,Monitor,1222,Cash,Ohio
+57,Sarah Jackson,Headphones,1448,Net Banking,California
+58,Emma Anderson,Mouse,610,Credit Card,Illinois
+59,Jane Martin,Mouse,832,Cash,Michigan
+60,David Smith,Keyboard,1015,Net Banking,Michigan
+61,Chris Thomas,Keyboard,1070,Debit Card,North Carolina
+62,Alice Taylor,Tablet,1330,UPI,Texas
+63,Alice Anderson,Tablet,1268,UPI,California
+64,John Taylor,Laptop,241,Debit Card,Ohio
+65,Sarah Jackson,Monitor,1363,UPI,Michigan
+66,Michael Jackson,Laptop,723,Cash,Texas
+67,Chris Harris,Camera,1220,Debit Card,Illinois
+68,David Harris,Laptop,118,Cash,Michigan
+69,Emma Anderson,Keyboard,858,UPI,Georgia
+70,Bob Thomas,Keyboard,1033,Cash,Florida
+71,Jane Brown,Keyboard,923,Net Banking,Ohio
+72,John Johnson,Mouse,107,Debit Card,New York
+73,David Johnson,Keyboard,865,Net Banking,New York
+74,Michael Martin,Smartwatch,1315,Net Banking,Pennsylvania
+75,Michael Taylor,Monitor,1328,Debit Card,Georgia
+76,Sarah Jackson,Tablet,433,UPI,Texas
+77,Michael Anderson,Camera,418,Credit Card,North Carolina
+78,Michael Martin,Monitor,478,UPI,Illinois
+79,Michael Johnson,Headphones,1378,UPI,California
+80,John White,Smartwatch,156,Credit Card,Texas
+81,Jane Smith,Smartwatch,993,Debit Card,Illinois
+82,Olivia White,Mouse,1360,Net Banking,California
+83,John Martin,Tablet,429,UPI,Pennsylvania
+84,Olivia Smith,Mouse,796,Debit Card,Ohio
+85,Bob Martin,Headphones,1425,Debit Card,Illinois
+86,Emma Martin,Printer,292,Cash,Pennsylvania
+87,John Anderson,Keyboard,1407,Credit Card,Texas
+88,Michael White,Laptop,811,UPI,Pennsylvania
+89,Bob White,Printer,1470,UPI,Florida
+90,Olivia Anderson,Keyboard,524,Net Banking,North Carolina
+91,Sarah Harris,Printer,926,Debit Card,North Carolina
+92,Chris White,Smartphone,714,Debit Card,Ohio
+93,Bob Brown,Keyboard,1433,Net Banking,New York
+94,Michael Brown,Printer,321,Net Banking,North Carolina
+95,Michael Brown,Smartphone,540,UPI,Pennsylvania
+96,John Brown,Smartphone,984,Cash,California
+97,John Brown,Monitor,244,UPI,California
+98,John Thomas,Headphones,1213,Credit Card,Florida
+99,Olivia Brown,Printer,408,Debit Card,Texas
+100,Olivia Jackson,Keyboard,520,Cash,Pennsylvania
+101,John Anderson,Smartwatch,833,Cash,Pennsylvania
+102,Sarah White,Mouse,359,Cash,Georgia
+103,Bob Martin,Printer,462,Net Banking,New York
+104,David Harris,Headphones,758,Debit Card,Texas
+105,Olivia Thomas,Laptop,1270,Cash,Illinois
+106,Sarah Thomas,Mouse,179,UPI,Georgia
+107,Alice Thomas,Camera,980,Debit Card,Georgia
+108,Olivia White,Camera,1237,Net Banking,New York
+109,Michael Martin,Tablet,416,Debit Card,Georgia
+110,Michael Taylor,Smartphone,979,Debit Card,New York
+111,Emma Harris,Laptop,540,Cash,Pennsylvania
+112,Michael Jackson,Keyboard,1232,Debit Card,Georgia
+113,Alice Harris,Monitor,745,Net Banking,Michigan
+114,Michael Taylor,Printer,587,Cash,Michigan
+115,Chris Jackson,Monitor,277,UPI,Illinois
+116,Jane Jackson,Camera,1460,Cash,Illinois
+117,Emma Johnson,Smartphone,1211,Debit Card,Michigan
+118,Emma Brown,Laptop,1107,Credit Card,Georgia
+119,Sarah Jackson,Printer,167,Credit Card,Michigan
+120,Michael Johnson,Smartwatch,435,Cash,Pennsylvania
+121,Bob Johnson,Smartwatch,723,Debit Card,Michigan
+122,Sarah White,Tablet,171,Debit Card,Illinois
+123,Jane White,Mouse,1373,Credit Card,New York
+124,Chris Martin,Camera,447,Credit Card,Texas
+125,Emma Johnson,Tablet,593,Cash,California
+126,Olivia Harris,Camera,561,Credit Card,Pennsylvania
+127,Olivia Johnson,Headphones,586,Debit Card,Florida
+128,Jane Johnson,Tablet,124,UPI,Michigan
+129,Olivia Martin,Monitor,306,Cash,North Carolina
+130,John Smith,Mouse,539,Cash,Florida
+131,Alice Thomas,Tablet,1095,Debit Card,North Carolina
+132,Emma Anderson,Tablet,1450,Credit Card,Pennsylvania
+133,Olivia Anderson,Laptop,587,Cash,Texas
+134,Sarah Thomas,Camera,1459,UPI,New York
+135,John Smith,Keyboard,1338,Net Banking,California
+136,Sarah Anderson,Smartwatch,863,Debit Card,Pennsylvania
+137,David Thomas,Camera,521,Net Banking,Michigan
+138,Jane Martin,Smartwatch,1090,Cash,Illinois
+139,Emma Jackson,Mouse,1491,Credit Card,Pennsylvania
+140,Sarah Anderson,Camera,59,Credit Card,California
+141,Michael Jackson,Laptop,852,Debit Card,Texas
+142,Olivia Taylor,Monitor,530,Cash,North Carolina
+143,Michael Taylor,Monitor,1007,UPI,Pennsylvania
+144,Chris Martin,Headphones,228,UPI,Texas
+145,Emma Anderson,Smartwatch,821,UPI,Illinois
+146,John Martin,Printer,224,Debit Card,Florida
+147,Sarah Harris,Monitor,363,Cash,New York
+148,Sarah Taylor,Headphones,1450,UPI,Ohio
+149,Emma Johnson,Printer,825,Net Banking,Georgia
+150,Sarah Martin,Keyboard,445,UPI,Georgia
+151,Alice Taylor,Keyboard,535,Debit Card,Texas
+152,Michael Taylor,Monitor,210,Cash,Florida
+153,Olivia White,Smartwatch,182,Cash,Florida
+154,Emma Harris,Printer,1485,Credit Card,Texas
+155,David Martin,Monitor,1166,Credit Card,Michigan
+156,Chris Johnson,Headphones,522,Cash,Ohio
+157,Alice Thomas,Smartwatch,1160,Debit Card,Georgia
+158,Olivia Smith,Headphones,855,Credit Card,Illinois
+159,Olivia Johnson,Camera,885,UPI,Illinois
+160,Jane White,Monitor,1252,Net Banking,Texas
+161,Sarah Jackson,Monitor,1485,UPI,Texas
+162,Alice Thomas,Tablet,888,Net Banking,Texas
+163,Jane Anderson,Mouse,1305,UPI,North Carolina
+164,Chris Jackson,Laptop,1153,Credit Card,Texas
+165,Olivia Anderson,Mouse,1450,Net Banking,Pennsylvania
+166,Olivia Harris,Tablet,405,UPI,California
+167,David Martin,Smartwatch,373,UPI,California
+168,Chris White,Tablet,531,Cash,Illinois
+169,Bob Martin,Smartwatch,537,Cash,Florida
+170,Chris Martin,Smartwatch,310,UPI,Ohio
+171,Emma Smith,Printer,1230,UPI,Georgia
+172,Emma Smith,Headphones,757,UPI,Illinois
+173,Sarah Taylor,Mouse,675,Cash,Michigan
+174,Michael Martin,Mouse,635,Net Banking,Georgia
+175,David Smith,Laptop,218,UPI,New York
+176,Michael Jackson,Keyboard,797,Credit Card,California
+177,Olivia Anderson,Printer,951,Cash,Georgia
+178,Alice Taylor,Keyboard,749,UPI,Illinois
+179,Sarah Anderson,Tablet,914,UPI,Illinois
+180,Michael Thomas,Monitor,726,Debit Card,California
+181,Bob Smith,Camera,576,Debit Card,California
+182,Emma Taylor,Smartphone,1329,Debit Card,California
+183,Alice Johnson,Smartphone,840,Net Banking,Georgia
+184,John Harris,Monitor,777,UPI,California
+185,Michael Johnson,Smartwatch,968,Debit Card,Illinois
+186,Bob White,Tablet,974,Net Banking,North Carolina
+187,Chris Harris,Printer,1309,UPI,North Carolina
+188,David Jackson,Smartwatch,1443,Debit Card,Texas
+189,David Thomas,Keyboard,1261,UPI,California
+190,Michael Harris,Headphones,711,Credit Card,Florida
+191,Bob Smith,Smartwatch,990,Net Banking,Ohio
+192,Jane Brown,Tablet,846,Net Banking,Pennsylvania
+193,David Anderson,Smartphone,1497,Cash,Florida
+194,Alice Taylor,Mouse,544,Cash,Florida
+195,John Thomas,Camera,89,Net Banking,Georgia
+196,John White,Headphones,1000,Cash,Texas
+197,Chris Thomas,Laptop,1008,Credit Card,Illinois
+198,Alice Smith,Smartwatch,85,Credit Card,Illinois
+199,Bob Thomas,Headphones,203,Net Banking,California
+200,Chris Taylor,Camera,905,Debit Card,Michigan
